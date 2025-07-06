@@ -15,11 +15,15 @@ A simple Python project to fine-tune a Llama 2 model on your custom dataset.
 └── checkpoints/        # Folder where fine-tuned model checkpoints will be saved
 
 
-⚙️ Installation & Setup
 
-# 1️⃣ Clone the repo
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone the repo
+
+```bash
 git clone https://github.com/krgau020/finetune_llama2_model.git
 cd finetune_llama2_model
+
 
 # 2️⃣ Create a virtual environment (optional but recommended)
 python -m venv venv
