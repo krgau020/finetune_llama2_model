@@ -1,6 +1,13 @@
-# 🦙 Fine-Tune Llama 2 Model
+# 🦙 Fine-tune Llama 2 Model
 
-A simple Python project to fine-tune a Llama 2 model on your custom dataset.
+Fine-tune a Llama 2 language model on your custom dataset using Gradient.
+
+---
+
+## 🚀 Project Overview
+
+This project demonstrates how to fine-tune a pre-trained Llama 2 model for your own domain-specific data  
+using a simple, reproducible Jupyter Notebook.  
 
 ---
 
@@ -41,10 +48,5 @@ venv\Scripts\activate
 pip install -r requirements.txt
 
 
-🚀 Usage
-
-# Run the training script
-python train.py
-
-# Make sure your training data is inside the `data/` folder.
-# The script will fine-tune the Llama 2 model using your dataset and save checkpoints in `checkpoints/`.
+Follow the steps in FineTune_Llama2.ipynb:
+# The script will fine-tune the Llama 2 model using your dataset.
