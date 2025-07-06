@@ -16,6 +16,8 @@ A simple Python project to fine-tune a Llama 2 model on your custom dataset.
 
 
 
+---
+
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the repo
