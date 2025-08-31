@@ -4,7 +4,7 @@ Fine-tune a Llama 2 language model on your custom dataset using Gradient.
 
 ---
 
-## 🚀 Project Overview
+## 🚀 Project Overview 
 
 This project demonstrates how to fine-tune a pre-trained Llama 2 model for your own domain-specific data  
 using a simple, reproducible Jupyter Notebook.  
